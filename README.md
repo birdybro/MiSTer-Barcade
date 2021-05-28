@@ -6,6 +6,10 @@ Original source of print here --> [Mini Arcade Machine by iClint](https://www.th
 
 Remixed content from here --> [Bezel File from Mini Arcade Machine by Franks3dShop](https://www.thingiverse.com/thing:3529914) and here --> [10 button control panel for Mini Arcade Machine by alecreator](https://www.thingiverse.com/thing:3817837)
 
+Pacman files from here --> [Glowing Pac Man & Phantom by FablabMoebius](https://www.thingiverse.com/thing:303447)
+
+Electrical Hazard sign from here --> [Hazard Signs Cut Remix](https://www.thingiverse.com/thing:4870304)
+
 ## Description
 
 This is a project to build a Mini Bartop Arcade system with a MiSTer FPGA device integrated into it. It's not meant to be the best, it's just meant to be printable on cheap enthusiast 3d printers, using decently high quality components. This is not a very cheap project, if you want to make it cheaper, substitute a raspberry pi like the above-linked original source of the print from Thingiverse by iClint, and substitue the screen for a cheaper one from Aliexpress. All costs below are based on my personal selection of items as of May 2021. Your results and methods may vary.
