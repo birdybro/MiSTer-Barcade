@@ -62,19 +62,6 @@ All 3d Printed Parts were sliced in PrusaSlicer on a Prusa i3 MK3S+ set to 0.30m
 * [Bezel for Adafruit 7" screen](https://cdn.thingiverse.com/assets/7f/f2/e9/ba/73/Bezel-Adafruit_7_Touchscreen.stl)
 
 ### Decorations
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
 
 ## Notes
 * Power stereo amp from GPIO on the DE10-nano. 5v is required. Occupy pin 11 (5v) and 12 (GND) of the available header.
