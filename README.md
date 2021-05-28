@@ -1,5 +1,7 @@
 # Mini-MiSTerBarcade
 
+License: Creative Common Attributions License (and all thingiverse files were the same)
+
 Original source of print here --> [Mini Arcade Machine by iClint](https://www.thingiverse.com/thing:2216740)
 
 Remixed content from here --> [Bezel File from Mini Arcade Machine by Franks3dShop](https://www.thingiverse.com/thing:3529914) and here --> [10 button control panel for Mini Arcade Machine by alecreator](https://www.thingiverse.com/thing:3817837)
