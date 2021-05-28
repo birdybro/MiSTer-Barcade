@@ -1,4 +1,4 @@
-# Mini-MiSTerBarcade (WORK IN PROGRESS)
+# MiSTer-Barcade (WORK IN PROGRESS)
 
 License: Creative Common Attributions License (and all thingiverse files were the same)
 
