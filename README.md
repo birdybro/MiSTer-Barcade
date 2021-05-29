@@ -63,6 +63,7 @@ All 3d Printed Parts were sliced in PrusaSlicer on a Prusa i3 MK3S+ set to 0.30m
 ## Notes
 * Power stereo amp from GPIO on the DE10-nano. 5v is required. Occupy pin 11 (5v) and 12 (GND) of the available header.
 * Power the fan from GPIO on the DE10-nano. 3.3v is required. Occupy pin 29 (3.3v) and 30 (GND) of the available header.
+* The video mode that needs to be placed into the MiSTer.ini file for the Adafruit 7" 800x480 non-touch display is `video_mode=800,70,48,10,480,13,3,29,34483`
 
 ## Credits
 
