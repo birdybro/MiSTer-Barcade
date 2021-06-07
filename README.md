@@ -2,14 +2,6 @@
 
 License: Creative Common Attributions License (and all thingiverse files were the same)
 
-Original source of print here --> [Mini Arcade Machine by iClint](https://www.thingiverse.com/thing:2216740)
-
-Remixed content from here --> [Bezel File from Mini Arcade Machine by Franks3dShop](https://www.thingiverse.com/thing:3529914) and here --> [10 button control panel for Mini Arcade Machine by alecreator](https://www.thingiverse.com/thing:3817837)
-
-Pacman files from here --> [Glowing Pac Man & Phantom by FablabMoebius](https://www.thingiverse.com/thing:303447)
-
-Electrical Hazard sign from here --> [Hazard Signs Cut Remix](https://www.thingiverse.com/thing:4870304)
-
 ## Description
 
 This is a project to build a Mini Bartop Arcade system with a MiSTer FPGA device integrated into it. It's not meant to be the best, it's just meant to be printable on cheap enthusiast 3d printers, using decently high quality components. This is not a very cheap project, if you want to make it cheaper, substitute a raspberry pi like the above-linked original source of the print from Thingiverse by iClint, and substitue the screen for a cheaper one from Aliexpress. All costs below are based on my personal selection of items as of May 2021. Your results and methods may vary.
@@ -19,7 +11,6 @@ This is a project to build a Mini Bartop Arcade system with a MiSTer FPGA device
 * [Loctite Ultra Gel Control Super Glue](https://www.amazon.com/dp/B01EZTPXEO) (or another cyanoacrylate super glue for bonding PLA pieces of different colors together)
 * [Power drill](https://www.amazon.com/Dewalt-DCD771C2-Cordless-Lithium-Ion-Compact/dp/B00ET5VMTU/)
 * [M3 Tap bits](https://www.amazon.com/Hakkin-Nitriding-Plastic-Tapping-Cutting/dp/B07S5KKCS4)
-* 
 
 ## Bill of Materials
 
@@ -73,3 +64,14 @@ All 3d Printed Parts were sliced in PrusaSlicer on a Prusa i3 MK3S+ set to 0.30m
 ## Notes
 * Power stereo amp from GPIO on the DE10-nano. 5v is required. Occupy pin 11 (5v) and 12 (GND) of the available header.
 * Power the fan from GPIO on the DE10-nano. 3.3v is required. Occupy pin 29 (3.3v) and 30 (GND) of the available header.
+* The video mode that needs to be placed into the MiSTer.ini file for the Adafruit 7" 800x480 non-touch display is `video_mode=800,70,48,10,480,13,3,29,34483`
+
+## Credits
+
+Original source of print here --> [Mini Arcade Machine by iClint](https://www.thingiverse.com/thing:2216740)
+
+Remixed content from here --> [Bezel File from Mini Arcade Machine by Franks3dShop](https://www.thingiverse.com/thing:3529914) and here --> [10 button control panel for Mini Arcade Machine by alecreator](https://www.thingiverse.com/thing:3817837)
+
+Pacman files from here --> [Glowing Pac Man & Phantom by FablabMoebius](https://www.thingiverse.com/thing:303447)
+
+Electrical Hazard sign from here --> [Hazard Signs Cut Remix](https://www.thingiverse.com/thing:4870304)
