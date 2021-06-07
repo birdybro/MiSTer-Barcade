@@ -37,6 +37,7 @@ This is a project to build a Mini Bartop Arcade system with a MiSTer FPGA device
 * [10x Japanese Style .110" Harness](https://focusattack.com/spare-japanese-style-110-harness-for-zero-delay-usb-encoder-pcb/) - $4.50
 * [8x Sanwa OBSF 30MM Pushbuttons](https://focusattack.com/buttons/sanwa/30mm/obsf-30-pushbutton/) - $19.60
 * [2x Sanwa OBSF 24MM Pushbuttons](https://focusattack.com/buttons/sanwa/24mm/obsf-24-pushbutton/) - $4.50
+* [Daemonbite KTRL Arcade Mini controller encoder](https://www.daemonbite.com/product/ktrl-arcade-mini/) - $23.18
 
 ### Adafruit Components
 * [HDMI 7" 800x480 Display Backpack - Without Touch](https://www.adafruit.com/product/2406) - $79.95
