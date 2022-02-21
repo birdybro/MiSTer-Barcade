@@ -1,5 +1,7 @@
 # MiSTer-Barcade (WORK IN PROGRESS)
 
+![Front of MiSTer Barcade](Images/Front.jpg)
+
 License: Creative Common Attributions License (and all thingiverse files were the same)
 
 ## Description
